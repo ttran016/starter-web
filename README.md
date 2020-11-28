@@ -15,3 +15,6 @@ As stated above, the main purpose is to provide a simple example.
 This is a simple web project, deploymeny can be on any web server. 
 
 ## How to Contribute 
+
+### Copyright 
+Git.Training.
