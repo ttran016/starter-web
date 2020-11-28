@@ -1,6 +1,6 @@
 # Starter Web Project
 
-This is a simply website project for showing how to use Git and Github together. Adding more texgt 
+This is a simply website project for showing how to use Git and Github together. Adding more text, then more changes from myfeature branch too. 
 
 ## Introduction
 
